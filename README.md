@@ -1,16 +1,17 @@
-### Hi there 👋
+###  Hello Friend 👋
 
-<!--
-**jkauze/jkauze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![twitter badge](https://img.shields.io/badge/Twitter-%40J__kauze-blue?style=flat-square&logo=twitter)](https://twitter.com/j_kauze)
+[![dev.to badge](https://img.shields.io/badge/dev.to-%40jkauze-ff69b4?style=flat-square&logo=dev.to)](https://dev.to/jkauze)
 
-Here are some ideas to get you started:
+I'm Computer engineering student, enthusiastic Devops and Developer | Living in Venezuela.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm learning and testing many technologies to become a better Devops/SRE. :robot:
+
+- 🌱 I’m currently learning **Kubernetes, Terraform, Aws Services**
+- :busts_in_silhouette: I’m looking to collaborate on **lowering barriers for open source contributors**
+- 🤔 I’m member and sysadmin of **MAC/LDAC** agrupation :space_invader: (*Laboratorio docente de aulas computarizadas*) in the *U.S.B.* 
+- 💬 Ask me about... **Gnu/linux, Docker, Jenkins, Ansible, NodeJs**
+- 📫 How to reach me: **jesuskauze@gmail.com** :mailbox_with_mail:
+- ⚡ Fun fact: **my original family last name was Kouz :family:** 
+
+*JK*
